@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+	<main id="main">
+		<h1 id="title" >
+			<b>Chhatrapati Shivaji Maharaj</b>
+		</h1>
+		<div id="img">
+			<img src="https://rukminim1.flixcart.com/image/416/416/kvr01ow0/poster/f/n/k/medium-shivaji-chhatrapati-shivaji-maharaj-portrait-of-shivaji-original-imag8kufgjf9wsd2.jpeg?q=70" id="image"
+				alt="Error Loading Image">
+			<small id="caption">
+				Shivaji Bhosale, also referred to as Chhatrapati Shivaji Maharaj, was an Indian ruler and a member of the Bhonsle Maratha clan. Shivaji carved out his own independent kingdom from the declining Adilshahi sultanate of Bijapur which formed the genesis of the Maratha Empire.
+			</small>
+		</div>
+		<div id="tribute-data">
+			<h1 class="title">
+				1st Chhatrapati of the Maratha Empire
+			</h1>
+            <p id="tribute-info">Shivaji Bhosale (Marathi pronunciation: [ʃiʋaˑɟiˑ bʱoˑs(ə)leˑ]; c. 1627/1630 – April 3, 1680[5]) was an Indian warrior-king and a member of the Bhonsle Maratha clan. Shivaji carved out an enclave from the declining Adilshahi sultanate of Bijapur that formed the genesis of the Maratha Empire. In 1674, he was formally crowned as the chhatrapati (emperor) of his realm at Raigad.<br> </br>
+
+                Over the course of his life, Shivaji engaged in both alliances and hostilities with the Mughal Empire, Sultanate of Golkonda and Sultanate of Bijapur, as well as European colonial powers. Shivaji's military forces expanded the Maratha sphere of influence, capturing and building forts, and forming a Maratha navy. Shivaji established a competent and progressive civil rule with well-structured administrative organisations. He revived ancient Hindu political traditions and court conventions and promoted the usage of Marathi and Sanskrit, rather than Persian language, in court and administration.</p>
+                <p id="tribute-info">Shivaji's legacy was to vary by observer and time, but he began to take on increased importance with the emergence of the Indian independence movement, as many elevated him as a proto-nationalist and hero of the Hindus.[6] Particularly in Maharashtra, debates over his history and role have engendered great passion and sometimes even violence as disparate groups have sought to characterise him and his legacy <br> </br>
+                Shivaji was well known for his strong religious and warrior code of ethics and exemplary character.[citation needed] He was recognized as a great national hero during Indian Independence Movement.[145][full citation needed]Shivaji is also known for his respect for women. In his empire, the violence on women was a serious crime. There are also accounts where he punished the people who were accused of crime on women.[146] While some accounts of Shivaji state that he was greatly influenced by the Brahmin guru Samarth Ramdas, others have rebutted that Ramdas' role has been over-emphasised by later Brahmin commentators to enhance their position.</p>
+        </div>
+		<br>
+        <footer>
+		 For more information,
+		check out
+		<a id="tribute-link" href="https://en.wikipedia.org/wiki/Shivaji">
+			<b>Chhatrapati Shivaji Maharaj</b> on Wikipedia. [
+			<small>Developed by @<a href="#">
+					Vaishnavi Dhakane.</a></a>
+		</small>]
+    </footer>
+	</main>
+</body>
+
+</html>
